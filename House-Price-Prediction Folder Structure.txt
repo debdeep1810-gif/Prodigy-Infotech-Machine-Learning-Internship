@@ -1,0 +1,20 @@
+Task-01-House-Price-Prediction/
+│
+├── dataset/
+│   └── house_price_dataset.csv
+│
+├── source_code/
+│   └── task1_house_price_prediction.py
+│
+├── outputs/
+│   ├── model_performance.txt
+│   └── prediction_results.csv
+│
+├── report/
+│   └── Task1_Report.pdf
+│
+├── presentation/
+│   └── Task1_Presentation.pptx
+│
+├── requirements.txt
+└── README.md
