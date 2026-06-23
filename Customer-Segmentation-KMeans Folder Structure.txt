@@ -1,0 +1,18 @@
+Customer-Segmentation-KMeans/
+│
+├── dataset/
+│      Mall_Customers.csv
+│
+├── notebooks/
+│      customer_segmentation.ipynb
+│
+├── screenshots/
+│      elbow_method.png
+│      clusters.png
+│
+├── report/
+│      Project_Report.pdf
+│
+├── README.md
+│
+└── requirements.txt
