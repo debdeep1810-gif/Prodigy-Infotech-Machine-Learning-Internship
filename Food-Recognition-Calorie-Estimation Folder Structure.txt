@@ -1,0 +1,19 @@
+Food-Recognition-Calorie-Estimation/
+
+│
+├── dataset/
+│
+├── notebook.ipynb
+│
+├── food_classifier.h5
+│
+├── requirements.txt
+│
+├── README.md
+│
+├── screenshots/
+│     ├── accuracy_graph.png
+│     ├── sample_prediction.png
+│
+├── report/
+│     └── Project_Report.pdf
