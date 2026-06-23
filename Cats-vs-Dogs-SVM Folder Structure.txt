@@ -1,0 +1,18 @@
+Cats-vs-Dogs-SVM/
+│
+├── dataset/
+│     train/
+│
+├── notebook/
+│     cats_dogs_svm.ipynb
+│
+├── screenshots/
+│     sample_predictions.png
+│     confusion_matrix.png
+│
+├── report/
+│     Project_Report.pdf
+│
+├── README.md
+│
+└── requirements.txt
