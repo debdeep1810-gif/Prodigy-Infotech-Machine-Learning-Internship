@@ -1,0 +1,11 @@
+Hand-Gesture-Recognition/
+
+│
+├── dataset/
+├── notebook.ipynb
+├── model.h5
+├── README.md
+├── requirements.txt
+├── images/
+│   ├── accuracy.png
+│   └── sample_prediction.png
